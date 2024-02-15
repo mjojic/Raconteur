@@ -1,0 +1,4 @@
+*.MOV--everything filter=lfs diff=lfs merge=lfs -text
+*.zip--everything filter=lfs diff=lfs merge=lfs -text
+*.mov--everything filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
